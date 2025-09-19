@@ -11,7 +11,9 @@ __pycache__/
 
 # Data files
 data/*.pdf
+!data/.gitkeep
 output/*.csv
+!output/.gitkeep
 
 # IDE
 .vscode/
@@ -22,3 +24,7 @@ output/*.csv
 # OS
 .DS_Store
 Thumbs.db
+
+# Development/Article files
+MEDIUM_ARTICLE.md
+project_plan.md

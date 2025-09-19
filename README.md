@@ -110,4 +110,4 @@ MIT License - use freely for personal or commercial projects.
 
 **💡 Pro Tip:** This tool saves developers 20+ hours per bank format. Use it to focus on building features, not parsing PDFs.
 
-**🔗 Read the story:** [Medium article](https://medium.com/@mahmudz/stop-writing-bank-statement-parsers-use-llms-instead) explaining why LLMs beat regex for document processing.
+**🔗 Read the story:** [Medium article](https://medium.com/@mahmudulhoque/stop-writing-bank-statement-parsers-use-llms-instead-50902360a604) explaining why LLMs beat regex for document processing.
